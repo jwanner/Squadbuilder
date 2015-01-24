@@ -1,0 +1,6 @@
+#!/bin/sh
+
+PATH="/Applications/BitNami/varnish/bin:/Applications/BitNami/sqlite/bin:/Applications/BitNami/php/bin:/Applications/BitNami/mysql/bin:/Applications/BitNami/apache2/bin:/Applications/BitNami/common/bin:$PATH"
+
+exec /bin/bash --noprofile --norc
+                    

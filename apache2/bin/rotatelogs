@@ -1,0 +1,3 @@
+#!/bin/sh
+. /Applications/BitNami/apache2/bin/envvars
+exec /Applications/BitNami/apache2/bin/rotatelogs.bin "$@"

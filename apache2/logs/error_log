@@ -1,0 +1,17 @@
+[Fri Jan 23 23:43:58.303529 2015] [ssl:warn] [pid 7909] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 23 23:43:58.916313 2015] [ssl:warn] [pid 7910] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 23 23:43:58.916618 2015] [lbmethod_heartbeat:notice] [pid 7910] AH02282: No slotmem from mod_heartmonitor
+[Fri Jan 23 23:43:58.921530 2015] [mpm_prefork:notice] [pid 7910] AH00163: Apache/2.4.10 (Unix) PHP/5.4.35 OpenSSL/1.0.1j configured -- resuming normal operations
+[Fri Jan 23 23:43:58.921631 2015] [core:notice] [pid 7910] AH00094: Command line: '/Applications/BitNami/apache2/bin/httpd -f /Applications/BitNami/apache2/conf/httpd.conf'
+[Fri Jan 23 23:44:06.347163 2015] [mpm_prefork:notice] [pid 7910] AH00169: caught SIGTERM, shutting down
+[Fri Jan 23 23:44:10.637387 2015] [ssl:warn] [pid 7943] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 23 23:44:10.720950 2015] [ssl:warn] [pid 7944] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 23 23:44:10.721245 2015] [lbmethod_heartbeat:notice] [pid 7944] AH02282: No slotmem from mod_heartmonitor
+[Fri Jan 23 23:44:10.726233 2015] [mpm_prefork:notice] [pid 7944] AH00163: Apache/2.4.10 (Unix) PHP/5.4.35 OpenSSL/1.0.1j configured -- resuming normal operations
+[Fri Jan 23 23:44:10.726313 2015] [core:notice] [pid 7944] AH00094: Command line: '/Applications/BitNami/apache2/bin/httpd -f /Applications/BitNami/apache2/conf/httpd.conf'
+[Fri Jan 23 23:44:39.522545 2015] [mpm_prefork:notice] [pid 7944] AH00169: caught SIGTERM, shutting down
+[Fri Jan 23 23:44:43.795246 2015] [ssl:warn] [pid 8033] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 23 23:44:43.899395 2015] [ssl:warn] [pid 8034] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 23 23:44:43.899692 2015] [lbmethod_heartbeat:notice] [pid 8034] AH02282: No slotmem from mod_heartmonitor
+[Fri Jan 23 23:44:43.906190 2015] [mpm_prefork:notice] [pid 8034] AH00163: Apache/2.4.10 (Unix) PHP/5.4.35 OpenSSL/1.0.1j configured -- resuming normal operations
+[Fri Jan 23 23:44:43.906261 2015] [core:notice] [pid 8034] AH00094: Command line: '/Applications/BitNami/apache2/bin/httpd -f /Applications/BitNami/apache2/conf/httpd.conf'

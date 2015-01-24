@@ -1,0 +1,4 @@
+#!/bin/sh
+. /Applications/BitNami/php/../scripts/setenv.sh
+
+exec /Applications/BitNami/php/bin/composer.phar "$@"

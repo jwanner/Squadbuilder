@@ -1,0 +1,5 @@
+#!/bin/sh
+
+. /Applications/BitNami/scripts/setenv.sh
+
+exec /Applications/BitNami/sqlite/bin/.sqlite3.bin  "$@"

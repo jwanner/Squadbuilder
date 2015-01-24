@@ -1,0 +1,10 @@
+#!/bin/sh
+LD_LIBRARY_PATH="/Applications/BitNami/common/lib:$LD_LIBRARY_PATH"	   
+DYLD_LIBRARY_PATH="/Applications/BitNami/common/lib:$DYLD_LIBRARY_PATH"	   
+OPENSSL_CONF="/Applications/BitNami/common/openssl/openssl.cnf"
+OPENSSL_ENGINES="/Applications/BitNami/common/lib/engines"
+export LD_LIBRARY_PATH
+export DYLD_LIBRARY_PATH
+export OPENSSL_CONF
+export OPENSSL_ENGINES
+exec /Applications/BitNami/common/bin/openssl.bin "$@"
